@@ -1,7 +1,6 @@
 CourseraGettingAndCleaningProject
 =================================
-**Description of Repo**
-This repo contains:
+**Files**:
 - run_analysis.R : a function that returns a tidy.txt file to your working directory. 
 - tidy.txt : data that contains the average for each variable (see codebook) for each activitity by subject.
 - CodeBook.md : a R markdown file that provides the description of variables used to create tidy.txt
