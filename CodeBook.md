@@ -47,7 +47,9 @@ and by subject with means for each variable.
 Tidy Data Variable Descriptions
 ---
 Subject: The subject performing an activity (30 subjects total performing 6 activities)
+
 AcitivityLabel: The activity being performed (Laying, Sitting, Standing, Walking, Walking Downstairs, Walking Upstars)
+
 Measurements: There were 79 total measurements which are the means of each subject performing an acitivity.  The following format was used (bracketed means start of new word):
 - (Frequency or Time)(Body or Gravity Created Motion)(Measuring Devise Used and Motion Type)(Mean or Standard Deviation)(X, Y, or Z axis)
 - For example, TimeBodyAccMeanX is the Time due to Body Motion using Accelerometer Mean along X Axis
